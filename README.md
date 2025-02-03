@@ -1,5 +1,7 @@
 # SIDEMADE - Simple Dense Matrix Decomposition
 
+![Boost Exercise](https://github.com/niyati-n/testing-boost-exercise/actions/workflows/boostworkflow.yml/badge.svg)
+
 A simple demo code to read dense matrices from files and solve linear systems with them.
 
 ## Folder Structure
